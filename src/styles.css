@@ -1,0 +1,14 @@
+body {
+    background-color: rebeccapurple;
+}
+
+button {
+    padding: 8px;
+    font-weight: bold;
+    border: none;
+    background-color: yellow;
+}
+
+.selected {
+    border: 4px solid green;
+}
